@@ -1,0 +1,187 @@
+<EnvioCFE_entreEmpresas xmlns="http://cfe.dgi.gub.uy" version="1.0">
+	<Caratula version="1.0">
+		<RutReceptor>218297360014</RutReceptor>
+		<RUCEmisor>215754340016</RUCEmisor>
+		<Idemisor>82</Idemisor>
+		<CantCFE>1</CantCFE>
+		<Fecha>2019-09-07T16:29:12-03:00</Fecha>
+		<X509Certificate>MIIGdzCCBF+gAwIBAgIUCglSMU4XaXF/1v7wLl88E+6xvqgwDQYJKoZIhvcNAQELBQAwXjELMAkGA1UEBhMCVVkxEzARBgNVBAcTCk1vbnRldmlkZW8xFDASBgNVBAoTC0FiaXRhYiBTLkEuMRMwEQYDVQQLEwpJRCBkaWdpdGFsMQ8wDQYDVQQDEwZBYml0YWIwHhcNMTkwMzA4MTkxMzAwWhcNMjAwMzA3MTkxMzAwWjBsMQswCQYDVQQGEwJVWTESMBAGA1UECBMJUmlvIE5lZ3JvMRgwFgYDVQQFEw9SVUMyMTU3NTQzNDAwMTYxFTATBgNVBAoTDEJyZWRlbWlsbCBTQTEYMBYGA1UEAxMPUGxhemEgUmVwdWVzdG9zMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyFgU+wN4iAfiiOz1HmBFufvHmZX0bTTjMgDD8kMoRFzJD7Hd1iwoAAps0N9XofRt/vFRNZg8+fMLbKottsA44j7eE8r0mWiqA46Gv3O6WW2ysPb2FW44DI5FlyoGOBRJBAJKxjWatt+BA4m2iKz+HPZ9hYYpjwv00Pn9qHBxrhR9huwiIhVSkk9BnSPnW8LTX2PaM3DHBYuS0u0xb/X1dGgtKT8REAHg4PNz1EyDSzArQZOBOijwA2VLQdgsQckH8ZSTk9U9+spM4/ExsEPv/8QxAu/CJIASNQo1eoMpM18CuAhgWnQC9WFwrhqrNbQjdT2XcGtVcACB/eiH/RI4PQIDAQABo4ICHTCCAhkwfwYIKwYBBQUHAQEEczBxMDUGCCsGAQUFBzAChilodHRwOi8vd3d3LmlkLmNvbS51eS9yZXNvdXJjZXMvQWJpdGFiLmNydDA4BggrBgEFBQcwAYYsaHR0cDovL3d3dy5pZC5jb20udXkvYXNmL3NlcnZsZXQvT0NTUFNlcnZsZXQwDgYDVR0PAQH/BAQDAgTwMAwGA1UdEwEB/wQCMAAwTgYDVR0fBEcwRTBDoEGgP4Y9aHR0cDovL3d3dy5pZC5jb20udXkvcmVzb3VyY2VzL2NybF9pZF9kaWdpdGFsX3BraV91cnVndWF5LmNybDCB0gYDVR0gBIHKMIHHMGQGC2CGWoTirh2EiAUEMFUwUwYIKwYBBQUHAgEWR2h0dHA6Ly91Y2UuZ3ViLnV5L2luZm9ybWFjaW9uLXRlY25pY2EvcG9saXRpY2FzL2NwX3BlcnNvbmFfanVyaWRpY2EucGRmMF8GC2CGWoTirh2EiAUHMFAwTgYIKwYBBQUHAgEWQmh0dHA6Ly93d3cuaWQuY29tLnV5L3Jlc291cmNlcy9jcHNfaWRfZmlybWFFbGVjdHJvbmljYUF2YW56YWRhLnBkZjATBgNVHSUEDDAKBggrBgEFBQcDAjAdBgNVHQ4EFgQUQb7pEFclRvHVswYzMURhKIdic5cwHwYDVR0jBBgwFoAUDRPW9sYopufFt4fRJJyfk/DoHTswDQYJKoZIhvcNAQELBQADggIBAE3UVwv9XN2J6XJD9pHCczhNqJfKcyfTL3bRLs4Xw2Jq4uzeT++6IHJBs1WbwwBmA3nCpVCjB9Da0GS14maIUEZUPNzTUgdDgpAWhUnjlttI+sVnzMXeyhdLyW0s0ZU9CJFxR8mQeOBMIUNwhdPmwYG7rnGfJjfeURs2vM6But52zdMZpUnm7GWRsr8d+XxH7zqiZM0BBeyd+Thq8QtXL0ug6p9pnl774CPYsdMZqtYWhsAcwm4IfsrIGM1WdKcW11O+qvhqdC2Q2QIK/8ae+RlDQyNm8+0rcfp0FQpgQp1lrPo5DJgBGUsBp2vhQne7wQcJz+GuVy6w0Yn8GyZmXkyBilYACweZd6yVPutcZnDH5NS6jHF0nq5FeOXxFqOCwBNb5+Tj6VkUZ7SCKs++DgNAvRI0oJpC5hoA6u4wHYxlxHvBXRHuhYDl7mw0VKLEanJedxAbKc1OVW5uCxJ0rl9sUyVjKcFp4uRXwpezC2QqC/bcdNYU3TMwA/IoAkxdBltiQLNIy1oTgEKD96uolD2/sFlGWoviPMsQ79M6OpvUFVXT3SuFrjmq6fkAmCaNqjseIlPTfrZI4+eEVCvo7l9CzXAS1ymtQNeTUdWyfEwCyxAg2jINw22KgJT9mwdATuJw+8lyrhC7BJiXXHnMzj8+Qw3WAfDQy6r3KgBOMJ31</X509Certificate>
+	</Caratula>
+<CFE_Adenda xmlns="http://cfe.dgi.gub.uy">
+	<CFE xmlns="http://cfe.dgi.gub.uy" version="1.0">
+	<eFact>
+		<TmstFirma>2019-09-07T16:25:19Z</TmstFirma>
+		<Encabezado>
+			<IdDoc>
+				<TipoCFE>111</TipoCFE>
+				<Serie>A</Serie>
+				<Nro>44</Nro>
+				<FchEmis>2019-09-07</FchEmis>
+				<PeriodoDesde>2019-09-07</PeriodoDesde>
+				<PeriodoHasta>2019-09-07</PeriodoHasta>
+				
+				<FmaPago>2</FmaPago>
+				<FchVenc>2019-09-07</FchVenc>
+				
+				
+				
+			</IdDoc>
+			<Emisor>
+				<RUCEmisor>215754340016</RUCEmisor>
+				<RznSoc>BREDEMILL SA</RznSoc>
+				<NomComercial>Plaza Repuestos</NomComercial>
+				
+				<Telefono xmlns="http://cfe.dgi.gub.uy"/>
+				<Telefono xmlns="http://cfe.dgi.gub.uy"/>
+				<CorreoEmisor>cfes.plazarepuestos@puntoexe.com.uy</CorreoEmisor>
+				<EmiSucursal>Principal</EmiSucursal>
+				<CdgDGISucur>1</CdgDGISucur>
+				<DomFiscal>Juan Zorrilla de San Martín 1626</DomFiscal>
+				<Ciudad>Fray Bentos</Ciudad>
+				<Departamento>Fray Bentos</Departamento>
+				<InfoAdicionalEmisor/>
+			</Emisor>
+			<Receptor>
+				<TipoDocRecep>2</TipoDocRecep>
+				<CodPaisRecep>UY</CodPaisRecep>
+				<DocRecep>218297360014</DocRecep>
+				<RznSocRecep>KEMBOY S.A</RznSocRecep>
+				<DirRecep>RUTA 2 KM 294 1/2</DirRecep>
+				<CiudadRecep>Fray Bentos</CiudadRecep>
+				<DeptoRecep>Rio Negro</DeptoRecep>
+				<PaisRecep>UY</PaisRecep>
+				<CP>65000</CP>
+				<LugarDestEnt>RUTA 2 KM 294 1/2</LugarDestEnt>
+				
+			</Receptor>
+			<Totales>
+				<TpoMoneda>UYU</TpoMoneda>
+				
+				
+				<MntExpoyAsim>0.00</MntExpoyAsim>
+				
+				
+				
+				<MntNetoIVATasaBasica>1479.18</MntNetoIVATasaBasica>
+				
+				
+				<IVATasaBasica>22.00</IVATasaBasica>
+				<MntIVATasaMin>0.00</MntIVATasaMin>
+				<MntIVATasaBasica>325.42</MntIVATasaBasica>
+				
+				<MntTotal>1804.60</MntTotal>
+				<MntTotRetenido>0.00</MntTotRetenido>
+				
+				<CantLinDet>5</CantLinDet>
+				<MontoNF>0.40</MontoNF>
+				<MntPagar>1805.00</MntPagar>
+			</Totales>
+		</Encabezado>
+		<Detalle>
+			<Item>
+				<NroLinDet>1</NroLinDet>
+				<CodItem>
+					<TpoCod>INT1</TpoCod>
+					<Cod>12171033</Cod>
+				</CodItem>
+				<IndFact>3</IndFact>
+				
+				<NomItem>ACEITE 20W50 "MOBIL" SUELTO X LT M-SUPER MOTO 4T D</NomItem>
+				
+				<Cantidad>4.000</Cantidad>
+				<UniMed/>
+				<PrecioUnitario>226.07000</PrecioUnitario>
+				
+				
+				
+				
+				<MontoItem>904.28</MontoItem>
+			</Item>
+			<Item>
+				<NroLinDet>2</NroLinDet>
+				<CodItem>
+					<TpoCod>INT1</TpoCod>
+					<Cod>7898275014142</Cod>
+				</CodItem>
+				<IndFact>3</IndFact>
+				
+				<NomItem>SILICONA AEROSOL 300ML MARINE</NomItem>
+				
+				<Cantidad>1.000</Cantidad>
+				<UniMed/>
+				<PrecioUnitario>172.80000</PrecioUnitario>
+				
+				
+				
+				
+				<MontoItem>172.80</MontoItem>
+			</Item>
+			<Item>
+				<NroLinDet>3</NroLinDet>
+				<CodItem>
+					<TpoCod>INT1</TpoCod>
+					<Cod>7790627101312</Cod>
+				</CodItem>
+				<IndFact>3</IndFact>
+				
+				<NomItem>LIMPIA RADIADORES</NomItem>
+				
+				<Cantidad>1.000</Cantidad>
+				<UniMed/>
+				<PrecioUnitario>116.19000</PrecioUnitario>
+				
+				
+				
+				
+				<MontoItem>116.19</MontoItem>
+			</Item>
+			<Item>
+				<NroLinDet>4</NroLinDet>
+				<CodItem>
+					<TpoCod>INT1</TpoCod>
+					<Cod>790920036066</Cod>
+				</CodItem>
+				<IndFact>3</IndFact>
+				
+				<NomItem>LIMPIA TODO P/AUTO ESPUMA MULTIUSO clean all</NomItem>
+				
+				<Cantidad>1.000</Cantidad>
+				<UniMed/>
+				<PrecioUnitario>285.91200</PrecioUnitario>
+				
+				
+				
+				
+				<MontoItem>285.91</MontoItem>
+			</Item>
+			<Item>
+				<NroLinDet>5</NroLinDet>
+				<IndFact>6</IndFact>
+				
+				<NomItem>Redondeo</NomItem>
+				
+				<Cantidad>1.000</Cantidad>
+				<UniMed/>
+				<PrecioUnitario>0.40000</PrecioUnitario>
+				
+				
+				
+				
+				<MontoItem>0.40</MontoItem>
+			</Item>
+		</Detalle>
+		<SubTotInfo>
+		</SubTotInfo>
+		<CAEData>
+			<CAE_ID>90190824455</CAE_ID>
+			<DNro>1</DNro>
+			<HNro>1000</HNro>
+			<FecVenc>2021-08-28</FecVenc>
+			
+			
+		</CAEData>
+	</eFact>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>xO7Mgoaf3cy1zfhuMNCjJVim1j0=</DigestValue></Reference></SignedInfo><SignatureValue>gZ/QSAX/sg7sDkP2/ry0L5wN0G2He7mlB45jykTukJWiktL3nDWHFlrOeBS2U85czJT8zHNL3D5C
+NUOn0Wc9xraSWyzPUiAGjhJsMQxSWPf7CZ7SiJZQe8VvOaUosyVLrnmRE64j+9oVVPAmZNtnd2GFls+V7rV6yi9spJxVb2wd22UAuzKsvianoPcweNGFzb1z6D1rgtg1yMesGSwKsNllhRIhsQoNTEdcBGdivH5LcJaKzL6yjKidamriVVb4zBzQEl1LsZLRCay0cv8S3ps87FraOpQ9MCDVjf2ISVzqAJ/YJT7F4vDX0dU2KDrMY94bvArSpvoXknUqwsECig==</SignatureValue><KeyInfo><X509Data><X509IssuerSerial><X509IssuerName>CN=Abitab, OU=ID digital, O=Abitab S.A., L=Montevideo, C=UY</X509IssuerName><X509SerialNumber>57297774400108899461139990051121463649541144232</X509SerialNumber></X509IssuerSerial></X509Data></KeyInfo></Signature></CFE>
+	<Adenda>|</Adenda>
+</CFE_Adenda></EnvioCFE_entreEmpresas>
